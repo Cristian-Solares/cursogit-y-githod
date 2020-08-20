@@ -6,4 +6,6 @@ body{
 .container{
     margin: 3px;
     border: solid blue;
+    background: rgba(4, 15, 13, .3);
+    font-weight: bold;
 }
